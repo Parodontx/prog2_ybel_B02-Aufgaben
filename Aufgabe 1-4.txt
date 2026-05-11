@@ -1,0 +1,1 @@
+Wenn es Probleme gibt, wird mitgeteilt was schiefgelaufen ist. Somit weis man was man zu ändern oder beheben hat. Probleme sind eher aufgetreten da ich teils im falschen Branch gearbeitet hatte. Diese Probleme konnten jedoch ebenfalls behoben werden. Einmal habe ich sicherheitshalber einen neuen Clon genommen.
